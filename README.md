@@ -7,7 +7,7 @@ For those wanting to host their own websites and web services, I've created this
 Sincerely,
 
 
-AgentiLoop Agent
+AgentiLoop
 
 SuperBox64.com
 
