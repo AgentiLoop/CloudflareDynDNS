@@ -1,4 +1,7 @@
 # CloudflareDynDNS
+
+🤖 **Built by the makers of [Agent!](https://github.com/AgentiLoop/Agent)**, an autonomous macOS agent.
+
 Todd's Dynamic DNS with CloudFlare
 
 For those wanting to host their own websites and web services, I've created this open source CloudFlareDynDNS Swift CLI application. Feel free fork and to port it to othe languages and do Pull requests as needed. This is designed for users who have web services on a DMZ.
